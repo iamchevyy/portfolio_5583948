@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+
+class HomePageX extends StatelessWidget {
+  const HomePageX({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Home Page'),
+        title: const Text('Willkommen im Portfolio von Chevron Rustler'), // ← DAS muss sichtbar sein
       ),
-      body: Center(
+      body: const Center(
         child: Text(
-          'Willkommen im Portfolio von Chevron Jewels Andreas Rustler',
-          style: Theme.of(context).textTheme.headlineMedium,
+          'Hier entsteht mein persönliches Portfolio!',
+          style: TextStyle(fontSize: 24),
         ),
       ),
     );
