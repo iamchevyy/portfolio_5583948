@@ -1,17 +1,30 @@
-# portfolio_5583948
+# 📱 Portfolio App
 
-A new Flutter project.
+Dies ist das Repository für meine Portfolio-App im Rahmen des Praktikums zur mobilen App-Entwicklung im Sommersemester 2025.
 
-## Getting Started
+## 🧑‍🎓 Autor
 
-This project is a starting point for a Flutter application.
+**Name:** Chevron Rustler  
+**Matrikelnummer:** 5583948
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Projektbeschreibung
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ziel des Projekts ist es, eine persönliche Portfolio-App mit Flutter zu entwickeln.  
+Im Rahmen dieses ersten Praktikums wurde das Projekt initial aufgesetzt, eine Git-Branching-Strategie eingeführt und eine einfache Startseite erstellt.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Verwendete Technologien
+
+- **Flutter SDK:** 3.19.x  
+- **Dart:** >=3.2.0  
+- Entwicklungsumgebung: Android Studio / Visual Studio Code
+
+## 📁 Projektstruktur
+
+Das Projekt folgt einer sauberen Struktur im `lib/`-Verzeichnis:
+
+## ▶️ Projekt lokal starten
+
+```bash
+flutter pub get
+flutter run
 
